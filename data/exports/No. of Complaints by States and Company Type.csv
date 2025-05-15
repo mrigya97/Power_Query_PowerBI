@@ -1,0 +1,372 @@
+﻿state name,Company Type,No. of Complaints
+Alabama,Inc,2
+Alabama,Inc.,20
+Alabama,LLC,10
+Alabama,LLC.,1
+Alabama,NA,100
+Alabama,PLLC,1
+Alabama,Weinberg & Reis,1
+Alaska,Inc.,2
+Alaska,NA,17
+Arizona,a TSYS Company,1
+Arizona,Inc,1
+Arizona,Inc.,49
+Arizona,L.L.C.,1
+Arizona,LLC,11
+Arizona,LLC.,1
+Arizona,LP,2
+Arizona,NA,247
+Arkansas,Inc,2
+Arkansas,Inc.,8
+Arkansas,LLC,4
+Arkansas,NA,47
+Arkansas,P.A.,1
+California,a TSYS Company,1
+California,Attorney at Law,1
+California,Cash Advance Centers,3
+California,Inc,33
+California,Inc.,256
+California,Inc. (FNIS),2
+California,Incorporated,2
+California,L.L.C.,2
+California,L.P.,1
+California,Law Offices,1
+California,LLC,73
+California,LLC - Legal - Series 2,1
+California,LLC (Closed),1
+California,LLC.,4
+California,LLP,6
+California,Ltd.,3
+California,NA,1584
+California,P.C.,1
+California,S.Ã  r.l.,1
+California,Tirey & St. John LLP,1
+Colorado,Inc,5
+Colorado,Inc.,38
+Colorado,LLC,13
+Colorado,LLC.,1
+Colorado,LLP,1
+Colorado,NA,193
+Connecticut,Inc,2
+Connecticut,Inc.,17
+Connecticut,Inc. (FNIS),1
+Connecticut,LLC,4
+Connecticut,LLC.,1
+Connecticut,NA,136
+Delaware,Inc,1
+Delaware,Inc.,15
+Delaware,LLC,3
+Delaware,NA,60
+Delaware,P.C.,1
+District Of Columbia,Burgess & Wolff,1
+District Of Columbia,Inc,1
+District Of Columbia,Inc.,17
+District Of Columbia,LLC,3
+District Of Columbia,Miller,1
+District Of Columbia,NA,75
+Florida,Beal & Nixon,1
+Florida,Burgess & Wolff,1
+Florida,Cash Advance Centers,2
+Florida,Inc,21
+Florida,Inc.,204
+Florida,Inc. (FNIS),3
+Florida,Incorporated,1
+Florida,L.L.C.,1
+Florida,L.P.,2
+Florida,LLC,47
+Florida,LLC.,5
+Florida,LP,1
+Florida,Morris & Montgomery Inc.,1
+Florida,NA,957
+Florida,P.A.,6
+Florida,P.C. (closed),1
+Florida,Palma & Andreu,1
+Georgia,Inc,8
+Georgia,Inc.,104
+Georgia,Inc. (FNIS),2
+Georgia,L.P.,1
+Georgia,LLC,30
+Georgia,LLC.,4
+Georgia,NA,419
+Georgia,P.C. (closed),8
+Georgia,PLLC,1
+Hawaii,Inc.,7
+Hawaii,LLC,5
+Hawaii,NA,27
+Idaho,Inc.,3
+Idaho,LLC,3
+Idaho,LP,1
+Idaho,NA,44
+Illinois,Hasenmiller,2
+Illinois,Inc,7
+Illinois,Inc.,54
+Illinois,L.L.C.,1
+Illinois,LLC,17
+Illinois,LLC.,2
+Illinois,Ltd.,3
+Illinois,NA,410
+Illinois,P.C.,4
+Indiana,a TSYS Company,2
+Indiana,Cash Advance Centers,2
+Indiana,Hasenmiller,2
+Indiana,Inc,1
+Indiana,Inc.,22
+Indiana,LLC,13
+Indiana,LLC.,3
+Indiana,Ltd.,1
+Indiana,NA,91
+Iowa,Cash Advance Centers,1
+Iowa,Inc,1
+Iowa,Inc.,10
+Iowa,LLC,2
+Iowa,NA,42
+Kansas,Attorney at Law,1
+Kansas,Cash Advance Centers,1
+Kansas,Inc,2
+Kansas,Inc.,16
+Kansas,Inc. (FNIS),1
+Kansas,LLC,3
+Kansas,NA,54
+Kentucky,Inc,1
+Kentucky,Inc.,16
+Kentucky,L.P.,1
+Kentucky,LLC,4
+Kentucky,NA,75
+Kentucky,P.S.C.,1
+Kentucky,PLC,1
+Louisiana,Hanley & Associates,1
+Louisiana,Inc,2
+Louisiana,Inc.,23
+Louisiana,Incorporated,1
+Louisiana,LLC,4
+Louisiana,LP,3
+Louisiana,NA,114
+Louisiana,P.C.,1
+Maine,Inc.,5
+Maine,L.P.,1
+Maine,LLC,3
+Maine,NA,37
+Maine,P.C.,1
+Maryland,Attorney at Law,2
+Maryland,Inc,5
+Maryland,Inc.,56
+Maryland,L.L.C.,1
+Maryland,L.P.,1
+Maryland,LLC,18
+Maryland,lnc.,1
+Maryland,Ltd.,2
+Maryland,Miller,1
+Maryland,NA,321
+Massachusetts,Attorney at Law,1
+Massachusetts,Glaser & Wilson,2
+Massachusetts,Inc,4
+Massachusetts,Inc.,46
+Massachusetts,LLC,5
+Massachusetts,NA,234
+Michigan,a TSYS Company,1
+Michigan,Inc,6
+Michigan,Inc.,46
+Michigan,Inc. (FNIS),1
+Michigan,L. C.,2
+Michigan,LLC,17
+Michigan,LP,1
+Michigan,NA,297
+Michigan,P.C.,1
+Michigan,Rouchon & Associates,1
+Minnesota,Inc,3
+Minnesota,Inc.,18
+Minnesota,Inc. (FNIS),1
+Minnesota,LLC,3
+Minnesota,LLC.,1
+Minnesota,NA,147
+Minnesota,Weinberg & Reis,1
+Mississippi,Inc,2
+Mississippi,Inc.,11
+Mississippi,LLC,9
+Mississippi,LP,1
+Mississippi,NA,53
+Mississippi,P.A.,1
+Missouri,Inc,2
+Missouri,Inc.,25
+Missouri,L.P.,1
+Missouri,LLC,4
+Missouri,LLC.,1
+Missouri,NA,135
+Missouri,P.C.,2
+Missouri,PLLC,1
+Montana,Inc,1
+Montana,Inc.,6
+Montana,LLC,2
+Montana,NA,9
+Montana,P.C.,1
+Nebraska,Inc,1
+Nebraska,Inc.,9
+Nebraska,LLC,3
+Nebraska,NA,41
+Nevada,a TSYS Company,1
+Nevada,Burgess & Wolff,1
+Nevada,Cash Advance Centers,1
+Nevada,Hasenmiller,1
+Nevada,Inc,1
+Nevada,Inc.,27
+Nevada,LLC,10
+Nevada,Ltd.,1
+Nevada,NA,128
+New Hampshire,Inc,2
+New Hampshire,Inc.,14
+New Hampshire,L.P.,1
+New Hampshire,LLC,4
+New Hampshire,LLC.,1
+New Hampshire,NA,43
+New Jersey,a TSYS Company,1
+New Jersey,Inc,5
+New Jersey,Inc.,49
+New Jersey,Inc. (FNIS),2
+New Jersey,L.L.C.,1
+New Jersey,LLC,15
+New Jersey,LLP,2
+New Jersey,LP,1
+New Jersey,NA,441
+New Jersey,P.C.,1
+New Mexico,Inc.,12
+New Mexico,L.L.C.,1
+New Mexico,LLC,3
+New Mexico,NA,59
+New York,Glaser & Wilson,1
+New York,Inc,13
+New York,Inc.,111
+New York,Inc. (FNIS),2
+New York,L.L.C.,1
+New York,L.P.,1
+New York,LLC,40
+New York,LLC.,4
+New York,LLP,6
+New York,Ltd.,1
+New York,NA,814
+New York,P.C.,1
+New York,PLLC.,1
+North Carolina,a TSYS Company,1
+North Carolina,Inc,5
+North Carolina,Inc.,57
+North Carolina,Lieberman & Stone,1
+North Carolina,LLC,10
+North Carolina,LP,2
+North Carolina,NA,366
+North Carolina,Weinberg & Reis,1
+North Dakota,Inc.,1
+North Dakota,LLC,1
+North Dakota,NA,5
+Ohio,Block & Rathbone LLC,1
+Ohio,Inc,1
+Ohio,Inc (NJ) (Closed),1
+Ohio,Inc.,71
+Ohio,Inc. (FNIS),2
+Ohio,L.P.A.,1
+Ohio,LLC,21
+Ohio,LLC.,1
+Ohio,NA,363
+Ohio,Weinberg & Reis,1
+Oklahoma,Beal & Nixon,1
+Oklahoma,Inc,3
+Oklahoma,Inc.,15
+Oklahoma,LLC,4
+Oklahoma,Ltd.,1
+Oklahoma,Marsh LLC,1
+Oklahoma,NA,68
+Oregon,anderson & deblasio,1
+Oregon,Inc.,25
+Oregon,LLC,5
+Oregon,LLC.,2
+Oregon,NA,144
+Pennsylvania,Inc,6
+Pennsylvania,Inc.,79
+Pennsylvania,LLC,28
+Pennsylvania,LLP,2
+Pennsylvania,Ltd.,2
+Pennsylvania,NA,393
+Pennsylvania,S.Ã  r.l.,1
+Rhode Island,Inc,2
+Rhode Island,Inc.,13
+Rhode Island,LLC,1
+Rhode Island,NA,48
+South Carolina,Inc,5
+South Carolina,Inc.,28
+South Carolina,LLC,16
+South Carolina,LLC.,2
+South Carolina,NA,143
+South Dakota,Inc,1
+South Dakota,Inc.,4
+South Dakota,LLC,2
+South Dakota,NA,19
+Tennessee,Cash Advance Centers,1
+Tennessee,Inc,3
+Tennessee,Inc.,47
+Tennessee,L.P.,2
+Tennessee,LLC,15
+Tennessee,LLC (KY),1
+Tennessee,Ltd.,1
+Tennessee,NA,163
+Tennessee,P.C.,3
+Tennessee,PLLC,2
+Texas,a TSYS Company,3
+Texas,Attorney at Law,1
+Texas,Cash Advance Centers,1
+Texas,Inc,11
+Texas,Inc.,159
+Texas,Inc. (FNIS),3
+Texas,Incorporated,1
+Texas,L.L.C.,3
+Texas,L.P.,6
+Texas,LLC,38
+Texas,LLC of Oklahoma,1
+Texas,LLC.,1
+Texas,LP,1
+Texas,Ltd.,1
+Texas,NA,806
+Texas,P.C.,1
+Texas,PLLC,1
+Texas,Sturm,1
+Texas,Weinberg & Reis,1
+Utah,Inc,1
+Utah,Inc.,8
+Utah,LLC,1
+Utah,NA,67
+Vermont,Inc,1
+Vermont,Inc.,4
+Vermont,LLC,2
+Vermont,NA,22
+Virginia,Block & Rathbone LLC,1
+Virginia,Cash Advance Centers,1
+Virginia,Inc,5
+Virginia,Inc.,84
+Virginia,L.P.,2
+Virginia,LLC,15
+Virginia,LLC.,2
+Virginia,Ltd.,1
+Virginia,NA,368
+Virginia,PLLC,1
+Washington,Hammer & White,1
+Washington,Inc,5
+Washington,Inc.,35
+Washington,Knight & Associates,1
+Washington,L.L.C.,1
+Washington,LLC,13
+Washington,LLC.,1
+Washington,LP,1
+Washington,NA,243
+Washington,P.C.,1
+Washington,Weinberg & Reis,1
+West Virginia,Inc.,5
+West Virginia,LC,1
+West Virginia,LLC,2
+West Virginia,NA,24
+Wisconsin,Duginski & Rohr,1
+Wisconsin,Inc.,21
+Wisconsin,Inc. (FNIS),1
+Wisconsin,LLC,3
+Wisconsin,Ltd.,1
+Wisconsin,NA,150
+Wisconsin,S.Ã  r.l.,1
+Wyoming,Inc,1
+Wyoming,Inc.,1
+Wyoming,NA,9

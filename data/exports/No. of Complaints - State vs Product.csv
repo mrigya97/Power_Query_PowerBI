@@ -1,0 +1,464 @@
+﻿Product,State,Count of Complaint ID
+Bank account or service,AK,4
+Bank account or service,AL,18
+Bank account or service,AR,11
+Bank account or service,AZ,42
+Bank account or service,CA,360
+Bank account or service,CO,29
+Bank account or service,CT,38
+Bank account or service,DC,16
+Bank account or service,DE,18
+Bank account or service,FL,244
+Bank account or service,GA,103
+Bank account or service,HI,7
+Bank account or service,IA,4
+Bank account or service,ID,11
+Bank account or service,IL,108
+Bank account or service,IN,17
+Bank account or service,KS,5
+Bank account or service,KY,15
+Bank account or service,LA,23
+Bank account or service,MA,65
+Bank account or service,MD,69
+Bank account or service,ME,6
+Bank account or service,MI,57
+Bank account or service,MN,31
+Bank account or service,MO,32
+Bank account or service,MS,14
+Bank account or service,MT,1
+Bank account or service,NC,76
+Bank account or service,ND,1
+Bank account or service,NE,5
+Bank account or service,NH,9
+Bank account or service,NJ,92
+Bank account or service,NM,8
+Bank account or service,NV,35
+Bank account or service,NY,222
+Bank account or service,OH,75
+Bank account or service,OK,9
+Bank account or service,OR,39
+Bank account or service,PA,89
+Bank account or service,RI,14
+Bank account or service,SC,17
+Bank account or service,SD,3
+Bank account or service,TN,31
+Bank account or service,TX,148
+Bank account or service,UT,7
+Bank account or service,VA,70
+Bank account or service,VT,4
+Bank account or service,WA,45
+Bank account or service,WI,24
+Bank account or service,WV,9
+Consumer Loan,AK,2
+Consumer Loan,AL,12
+Consumer Loan,AR,7
+Consumer Loan,AZ,24
+Consumer Loan,CA,101
+Consumer Loan,CO,11
+Consumer Loan,CT,11
+Consumer Loan,DC,4
+Consumer Loan,DE,6
+Consumer Loan,FL,62
+Consumer Loan,GA,37
+Consumer Loan,HI,2
+Consumer Loan,IA,2
+Consumer Loan,IL,38
+Consumer Loan,IN,8
+Consumer Loan,KS,4
+Consumer Loan,KY,10
+Consumer Loan,LA,9
+Consumer Loan,MA,16
+Consumer Loan,MD,36
+Consumer Loan,ME,2
+Consumer Loan,MI,25
+Consumer Loan,MN,11
+Consumer Loan,MO,11
+Consumer Loan,MS,6
+Consumer Loan,MT,2
+Consumer Loan,NC,29
+Consumer Loan,ND,1
+Consumer Loan,NE,5
+Consumer Loan,NH,2
+Consumer Loan,NJ,40
+Consumer Loan,NM,6
+Consumer Loan,NV,11
+Consumer Loan,NY,37
+Consumer Loan,OH,30
+Consumer Loan,OK,11
+Consumer Loan,OR,8
+Consumer Loan,PA,35
+Consumer Loan,RI,1
+Consumer Loan,SC,24
+Consumer Loan,SD,3
+Consumer Loan,TN,21
+Consumer Loan,TX,77
+Consumer Loan,UT,3
+Consumer Loan,VA,35
+Consumer Loan,WA,10
+Consumer Loan,WI,14
+Consumer Loan,WV,3
+Consumer Loan,WY,1
+Credit card,AK,3
+Credit card,AL,19
+Credit card,AR,7
+Credit card,AZ,48
+Credit card,CA,316
+Credit card,CO,42
+Credit card,CT,23
+Credit card,DC,18
+Credit card,DE,16
+Credit card,FL,167
+Credit card,GA,61
+Credit card,HI,5
+Credit card,IA,11
+Credit card,ID,12
+Credit card,IL,90
+Credit card,IN,17
+Credit card,KS,6
+Credit card,KY,16
+Credit card,LA,11
+Credit card,MA,45
+Credit card,MD,44
+Credit card,ME,13
+Credit card,MI,52
+Credit card,MN,35
+Credit card,MO,27
+Credit card,MS,7
+Credit card,MT,1
+Credit card,NC,73
+Credit card,NE,7
+Credit card,NH,10
+Credit card,NJ,90
+Credit card,NM,7
+Credit card,NV,24
+Credit card,NY,204
+Credit card,OH,69
+Credit card,OK,15
+Credit card,OR,30
+Credit card,PA,77
+Credit card,RI,10
+Credit card,SC,27
+Credit card,SD,5
+Credit card,TN,29
+Credit card,TX,146
+Credit card,UT,14
+Credit card,VA,78
+Credit card,VT,3
+Credit card,WA,38
+Credit card,WI,38
+Credit card,WV,4
+Credit reporting,AK,2
+Credit reporting,AL,14
+Credit reporting,AR,9
+Credit reporting,AZ,24
+Credit reporting,CA,178
+Credit reporting,CO,24
+Credit reporting,CT,9
+Credit reporting,DC,8
+Credit reporting,DE,3
+Credit reporting,FL,144
+Credit reporting,GA,66
+Credit reporting,HI,3
+Credit reporting,IA,4
+Credit reporting,ID,4
+Credit reporting,IL,34
+Credit reporting,IN,12
+Credit reporting,KS,10
+Credit reporting,KY,8
+Credit reporting,LA,19
+Credit reporting,MA,18
+Credit reporting,MD,36
+Credit reporting,ME,2
+Credit reporting,MI,29
+Credit reporting,MN,16
+Credit reporting,MO,17
+Credit reporting,MS,7
+Credit reporting,MT,4
+Credit reporting,NC,50
+Credit reporting,ND,1
+Credit reporting,NE,2
+Credit reporting,NH,4
+Credit reporting,NJ,38
+Credit reporting,NM,6
+Credit reporting,NV,21
+Credit reporting,NY,81
+Credit reporting,OH,32
+Credit reporting,OK,8
+Credit reporting,OR,17
+Credit reporting,PA,42
+Credit reporting,RI,8
+Credit reporting,SC,20
+Credit reporting,TN,14
+Credit reporting,TX,109
+Credit reporting,UT,7
+Credit reporting,VA,72
+Credit reporting,VT,4
+Credit reporting,WA,39
+Credit reporting,WI,17
+Credit reporting,WV,5
+Credit reporting,WY,2
+Debt collection,AK,1
+Debt collection,AL,29
+Debt collection,AR,14
+Debt collection,AZ,56
+Debt collection,CA,360
+Debt collection,CO,51
+Debt collection,CT,28
+Debt collection,DC,19
+Debt collection,DE,14
+Debt collection,FL,245
+Debt collection,GA,118
+Debt collection,HI,10
+Debt collection,IA,14
+Debt collection,ID,9
+Debt collection,IL,89
+Debt collection,IN,49
+Debt collection,KS,21
+Debt collection,KY,18
+Debt collection,LA,45
+Debt collection,MA,40
+Debt collection,MD,73
+Debt collection,ME,8
+Debt collection,MI,82
+Debt collection,MN,32
+Debt collection,MO,40
+Debt collection,MS,20
+Debt collection,MT,7
+Debt collection,NC,68
+Debt collection,ND,2
+Debt collection,NE,17
+Debt collection,NH,13
+Debt collection,NJ,82
+Debt collection,NM,17
+Debt collection,NV,37
+Debt collection,NY,172
+Debt collection,OH,98
+Debt collection,OK,21
+Debt collection,OR,29
+Debt collection,PA,80
+Debt collection,RI,8
+Debt collection,SC,45
+Debt collection,SD,11
+Debt collection,TN,75
+Debt collection,TX,258
+Debt collection,UT,10
+Debt collection,VA,73
+Debt collection,VT,8
+Debt collection,WA,74
+Debt collection,WI,31
+Debt collection,WV,2
+Debt collection,WY,4
+Money transfers,AZ,3
+Money transfers,CA,22
+Money transfers,CO,3
+Money transfers,CT,5
+Money transfers,DC,1
+Money transfers,FL,11
+Money transfers,GA,6
+Money transfers,IA,2
+Money transfers,IL,1
+Money transfers,KS,2
+Money transfers,MA,7
+Money transfers,MD,3
+Money transfers,MI,3
+Money transfers,MN,1
+Money transfers,MS,2
+Money transfers,NC,4
+Money transfers,NJ,4
+Money transfers,NM,1
+Money transfers,NY,13
+Money transfers,OH,3
+Money transfers,OK,2
+Money transfers,PA,5
+Money transfers,RI,2
+Money transfers,TX,9
+Money transfers,UT,2
+Money transfers,VA,5
+Money transfers,WA,3
+Mortgage,AK,2
+Mortgage,AL,28
+Mortgage,AR,13
+Mortgage,AZ,93
+Mortgage,CA,512
+Mortgage,CO,79
+Mortgage,CT,36
+Mortgage,DC,20
+Mortgage,DE,17
+Mortgage,FL,318
+Mortgage,GA,145
+Mortgage,HI,8
+Mortgage,IA,13
+Mortgage,ID,12
+Mortgage,IL,108
+Mortgage,IN,19
+Mortgage,KS,21
+Mortgage,KY,20
+Mortgage,LA,24
+Mortgage,MA,67
+Mortgage,MD,120
+Mortgage,ME,12
+Mortgage,MI,94
+Mortgage,MN,34
+Mortgage,MO,31
+Mortgage,MS,14
+Mortgage,MT,4
+Mortgage,NC,115
+Mortgage,ND,1
+Mortgage,NE,13
+Mortgage,NH,20
+Mortgage,NJ,140
+Mortgage,NM,26
+Mortgage,NV,35
+Mortgage,NY,193
+Mortgage,OH,108
+Mortgage,OK,22
+Mortgage,OR,45
+Mortgage,PA,132
+Mortgage,RI,13
+Mortgage,SC,44
+Mortgage,SD,3
+Mortgage,TN,48
+Mortgage,TX,223
+Mortgage,UT,24
+Mortgage,VA,116
+Mortgage,VT,7
+Mortgage,WA,76
+Mortgage,WI,46
+Mortgage,WV,6
+Mortgage,WY,3
+Other financial service,AZ,1
+Other financial service,CA,2
+Other financial service,DC,2
+Other financial service,FL,2
+Other financial service,HI,1
+Other financial service,IN,1
+Other financial service,MA,3
+Other financial service,MS,1
+Other financial service,NY,2
+Other financial service,OH,2
+Other financial service,PA,2
+Other financial service,RI,1
+Other financial service,TN,1
+Other financial service,TX,1
+Other financial service,UT,1
+Other financial service,VA,1
+Payday loan,AL,1
+Payday loan,AZ,3
+Payday loan,CA,17
+Payday loan,CO,3
+Payday loan,DC,1
+Payday loan,FL,11
+Payday loan,GA,11
+Payday loan,HI,1
+Payday loan,IA,1
+Payday loan,ID,1
+Payday loan,IL,7
+Payday loan,IN,2
+Payday loan,KS,3
+Payday loan,KY,4
+Payday loan,LA,6
+Payday loan,MA,1
+Payday loan,MD,7
+Payday loan,MI,1
+Payday loan,MN,4
+Payday loan,MO,4
+Payday loan,MS,2
+Payday loan,NC,2
+Payday loan,ND,1
+Payday loan,NE,1
+Payday loan,NH,1
+Payday loan,NJ,7
+Payday loan,NM,1
+Payday loan,NV,6
+Payday loan,NY,7
+Payday loan,OH,8
+Payday loan,OK,2
+Payday loan,OR,1
+Payday loan,PA,6
+Payday loan,RI,4
+Payday loan,SC,3
+Payday loan,TN,5
+Payday loan,TX,21
+Payday loan,UT,1
+Payday loan,VA,5
+Payday loan,WA,4
+Payday loan,WI,1
+Payday loan,WY,1
+Prepaid card,AK,1
+Prepaid card,AL,1
+Prepaid card,AZ,6
+Prepaid card,CA,16
+Prepaid card,CO,1
+Prepaid card,CT,1
+Prepaid card,FL,6
+Prepaid card,GA,5
+Prepaid card,IL,1
+Prepaid card,IN,2
+Prepaid card,KY,1
+Prepaid card,LA,2
+Prepaid card,MI,9
+Prepaid card,MN,1
+Prepaid card,MO,2
+Prepaid card,MS,2
+Prepaid card,NC,5
+Prepaid card,NH,1
+Prepaid card,NJ,2
+Prepaid card,NM,1
+Prepaid card,NV,1
+Prepaid card,NY,4
+Prepaid card,OH,4
+Prepaid card,OK,1
+Prepaid card,PA,3
+Prepaid card,TN,2
+Prepaid card,TX,6
+Prepaid card,UT,2
+Prepaid card,VA,2
+Student loan,AK,4
+Student loan,AL,13
+Student loan,AR,1
+Student loan,AZ,13
+Student loan,CA,93
+Student loan,CO,8
+Student loan,CT,10
+Student loan,DC,9
+Student loan,DE,6
+Student loan,FL,45
+Student loan,GA,25
+Student loan,HI,2
+Student loan,IA,5
+Student loan,ID,2
+Student loan,IL,24
+Student loan,IN,10
+Student loan,KS,6
+Student loan,KY,7
+Student loan,LA,10
+Student loan,MA,30
+Student loan,MD,20
+Student loan,ME,4
+Student loan,MI,21
+Student loan,MN,8
+Student loan,MO,7
+Student loan,MS,2
+Student loan,NC,21
+Student loan,NE,4
+Student loan,NH,5
+Student loan,NJ,23
+Student loan,NM,2
+Student loan,NV,1
+Student loan,NY,61
+Student loan,OH,34
+Student loan,OK,2
+Student loan,OR,8
+Student loan,PA,40
+Student loan,RI,3
+Student loan,SC,14
+Student loan,SD,1
+Student loan,TN,12
+Student loan,TX,42
+Student loan,UT,6
+Student loan,VA,23
+Student loan,VT,3
+Student loan,WA,14
+Student loan,WI,7
+Student loan,WV,3
+Virtual currency,MN,1
